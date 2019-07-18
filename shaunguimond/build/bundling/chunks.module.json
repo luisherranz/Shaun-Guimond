@@ -1,0 +1,72 @@
+{
+  "errors": [],
+  "warnings": [],
+  "version": "4.36.1",
+  "hash": "3f085f88cb47ffa3bed5",
+  "publicPath": "/static/",
+  "outputPath": "C:\\Users\\shaun\\documents\\github\\shaunguimond\\shaunguimond\\build\\static",
+  "assetsByChunkName": {
+    "list": "list.module.js",
+    "shaunguimond": "shaunguimond.module.js"
+  },
+  "assets": [
+    {
+      "name": "list.module.js",
+      "size": 17979,
+      "chunks": [
+        "list"
+      ],
+      "chunkNames": [
+        "list"
+      ],
+      "emitted": false
+    },
+    {
+      "name": "shaunguimond.module.js",
+      "size": 3201858,
+      "chunks": [
+        "shaunguimond"
+      ],
+      "chunkNames": [
+        "shaunguimond"
+      ],
+      "emitted": false
+    }
+  ],
+  "filteredAssets": 0,
+  "entrypoints": {
+    "shaunguimond": {
+      "chunks": [
+        "shaunguimond"
+      ],
+      "assets": [
+        "shaunguimond.module.js"
+      ],
+      "children": {},
+      "childAssets": {}
+    }
+  },
+  "namedChunkGroups": {
+    "shaunguimond": {
+      "chunks": [
+        "shaunguimond"
+      ],
+      "assets": [
+        "shaunguimond.module.js"
+      ],
+      "children": {},
+      "childAssets": {}
+    },
+    "list": {
+      "chunks": [
+        "list"
+      ],
+      "assets": [
+        "list.module.js"
+      ],
+      "children": {},
+      "childAssets": {}
+    }
+  },
+  "children": []
+}
