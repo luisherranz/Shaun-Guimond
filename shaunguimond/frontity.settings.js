@@ -2,9 +2,9 @@ const settings = {
   "name": "shaunguimond",
   "state": {
     "frontity": {
-      "url": "https://test.frontity.io",
-      "title": "Test Frontity Blog",
-      "description": "WordPress installation for Frontity development"
+      "url": "https:/www.shaunguimond.com",
+      "title": "Shaun Guimond",
+      "description": "Shaun Guimond testing Frontity!"
     }
   },
   "packages": [
@@ -18,11 +18,11 @@ const settings = {
               "/"
             ],
             [
-              "Test",
+              "Marketing",
               "/about-shaun"
             ],
             [
-              "About Me",
+              "About Shaun",
               "/about-shaun"
             ]
 

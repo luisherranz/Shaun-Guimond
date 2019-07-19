@@ -1,6 +1,6 @@
 {
     "version": 2,
-    "alias": ["www.shaunguimond.com"],
+    "alias": ["shaunguimond.shaunguimond.now.sh"],
     "builds": [
       {
         "src": "build/static/**/*",
