@@ -1,13 +1,13 @@
 {
   "name": "@frontity/mars-theme",
   "version": "1.1.8",
-  "description": "A starter theme for Frontity",
+  "description": "Shaun Guimond testing Frontity",
   "keywords": [
     "frontity",
     "frontity-theme",
     "frontity-amp"
   ],
-  "homepage": "https://frontity.org",
+  "homepage": "",
   "license": "Apache-2.0",
   "repository": {
     "type": "git",

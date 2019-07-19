@@ -38,7 +38,7 @@ const settings = {
       "name": "@frontity/wp-source",
       "state": {
         "source": {
-          "api": "https://wp.shaunguimond.com/wp-json/wp"
+          "api": "https://wp.shaunguimond.com/wp-json/"
         }
       }
     },
