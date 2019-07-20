@@ -19,7 +19,11 @@ const settings = {
             ],
             [
               "Marketing",
-              "/about-shaun"
+              "/category/marketing"
+            ],
+            [
+              "Projects",
+              "/projects"
             ],
             [
               "About Shaun",
