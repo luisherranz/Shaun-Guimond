@@ -17,10 +17,10 @@ export default connect(Nav);
 const Container = styled.nav`
   list-style: none;
   display: flex;
-  width: 848px;
+  width: 1148px;
   max-width: 100%;
   box-sizing: border-box;
-  padding: 0 24px;
+  padding: 15px 50px;
   margin: 0;
   overflow-x: auto;
 `;
@@ -29,7 +29,7 @@ const Item = styled.div`
   padding: 0;
   margin: 0 16px;
   color: #000;
-  font-size: 0.9em;
+  font-size: 1em;
   box-sizing: border-box;
   flex-shrink: 0;
 

@@ -10,21 +10,22 @@ const Header = ({ state }) => (
         <Title>{state.frontity.title}</Title>
       </StyledLink>
       <Description>{state.frontity.description}</Description>
+      <Nav />
     </Container>
-    <Nav />
+    
   </>
 );
 
 export default connect(Header);
 
 const Container = styled.div`
-  width: 848px;
+  width: 1148px;
   max-width: 100%;
   box-sizing: border-box;
-  padding: 24px;
+  padding: 15px 20px 0px 24px;
   color: #000;
   display: flex;
-  flex-direction: column;
+  flex-direction: row;
   justify-content: space-around;
 `;
 
@@ -35,9 +36,15 @@ const Title = styled.h2`
 
 const Description = styled.h4`
   margin: 0;
-  color: rgba(0, 0, 0, 0);
+  color: black;
+  display: none;
 `;
 
 const StyledLink = styled(Link)`
   text-decoration: none;
+`;
+
+const Logo = styled.img`
+  width: 100px;
+
 `;

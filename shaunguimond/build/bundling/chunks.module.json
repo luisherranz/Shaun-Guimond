@@ -2,56 +2,35 @@
   "errors": [],
   "warnings": [],
   "version": "4.36.1",
-  "hash": "40ba254b3a9510e11ec8",
+  "hash": "ec87ccd3ffba4d544ac9",
   "publicPath": "/static/",
   "outputPath": "C:\\Users\\shaun\\documents\\github\\shaunguimond\\shaunguimond\\build\\static",
   "assetsByChunkName": {
     "list": "list.module.js",
-    "shaunguimond": [
-      "shaunguimond.module.js",
-      "shaunguimond.e6098401772496fa1314.hot-update.js"
-    ]
+    "shaunguimond": "shaunguimond.module.js"
   },
   "assets": [
     {
-      "name": "e6098401772496fa1314.hot-update.json",
-      "size": 54,
-      "chunks": [],
-      "chunkNames": [],
-      "emitted": false
-    },
-    {
       "name": "list.module.js",
-      "size": 17979,
+      "size": 18071,
       "chunks": [
         "list"
       ],
       "chunkNames": [
         "list"
-      ],
-      "emitted": false
-    },
-    {
-      "name": "shaunguimond.e6098401772496fa1314.hot-update.js",
-      "size": 7626,
-      "chunks": [
-        "shaunguimond"
-      ],
-      "chunkNames": [
-        "shaunguimond"
       ],
       "emitted": false
     },
     {
       "name": "shaunguimond.module.js",
-      "size": 3201858,
+      "size": 3202281,
       "chunks": [
         "shaunguimond"
       ],
       "chunkNames": [
         "shaunguimond"
       ],
-      "emitted": false
+      "emitted": true
     }
   ],
   "filteredAssets": 0,
@@ -61,8 +40,7 @@
         "shaunguimond"
       ],
       "assets": [
-        "shaunguimond.module.js",
-        "shaunguimond.e6098401772496fa1314.hot-update.js"
+        "shaunguimond.module.js"
       ],
       "children": {},
       "childAssets": {}
@@ -74,8 +52,7 @@
         "shaunguimond"
       ],
       "assets": [
-        "shaunguimond.module.js",
-        "shaunguimond.e6098401772496fa1314.hot-update.js"
+        "shaunguimond.module.js"
       ],
       "children": {},
       "childAssets": {}

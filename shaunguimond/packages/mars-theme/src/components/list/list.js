@@ -35,10 +35,12 @@ const List = ({ state }) => {
 export default connect(List);
 
 const Container = styled.section`
-  width: 800px;
+  width: 85vw;
+  max-width:1100px;
   margin: 0;
   padding: 24px;
   list-style: none;
+  display: grid;
 `;
 
 const Header = styled.h3`
