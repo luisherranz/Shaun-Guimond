@@ -2,35 +2,35 @@
   "errors": [],
   "warnings": [],
   "version": "4.36.1",
-  "hash": "ec87ccd3ffba4d544ac9",
+  "hash": "781d9aa9411747bb9de7",
   "publicPath": "/static/",
   "outputPath": "C:\\Users\\shaun\\documents\\github\\shaunguimond\\shaunguimond\\build\\static",
   "assetsByChunkName": {
-    "list": "list.module.js",
-    "shaunguimond": "shaunguimond.module.js"
+    "shaunguimond": "shaunguimond.module.js",
+    "vendors~list": "vendors~list.module.js"
   },
   "assets": [
     {
-      "name": "list.module.js",
-      "size": 18071,
+      "name": "shaunguimond.module.js",
+      "size": 3684371,
       "chunks": [
-        "list"
+        "shaunguimond"
       ],
       "chunkNames": [
-        "list"
+        "shaunguimond"
       ],
       "emitted": false
     },
     {
-      "name": "shaunguimond.module.js",
-      "size": 3202281,
+      "name": "vendors~list.module.js",
+      "size": 46109,
       "chunks": [
-        "shaunguimond"
+        "vendors~list"
       ],
       "chunkNames": [
-        "shaunguimond"
+        "vendors~list"
       ],
-      "emitted": true
+      "emitted": false
     }
   ],
   "filteredAssets": 0,
@@ -59,10 +59,10 @@
     },
     "list": {
       "chunks": [
-        "list"
+        "vendors~list"
       ],
       "assets": [
-        "list.module.js"
+        "vendors~list.module.js"
       ],
       "children": {},
       "childAssets": {}
