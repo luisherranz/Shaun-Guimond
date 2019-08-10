@@ -23,7 +23,11 @@ const settings = {
             ],
             [
               "Travels",
-              "/travels/"
+              "/category/travels/"
+            ],
+            [
+              "Coding",
+              "/category/coding/"
             ],
             [
               "Projects",

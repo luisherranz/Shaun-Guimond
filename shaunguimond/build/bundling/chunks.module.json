@@ -1,0 +1,72 @@
+{
+  "errors": [],
+  "warnings": [],
+  "version": "4.36.1",
+  "hash": "b206f9fb1aac0b5dfd9f",
+  "publicPath": "/static/",
+  "outputPath": "C:\\Users\\shaun\\documents\\github\\shaunguimond\\shaunguimond\\build\\static",
+  "assetsByChunkName": {
+    "shaunguimond": "shaunguimond.module.js",
+    "vendors~list": "vendors~list.module.js"
+  },
+  "assets": [
+    {
+      "name": "shaunguimond.module.js",
+      "size": 3684747,
+      "chunks": [
+        "shaunguimond"
+      ],
+      "chunkNames": [
+        "shaunguimond"
+      ],
+      "emitted": false
+    },
+    {
+      "name": "vendors~list.module.js",
+      "size": 46109,
+      "chunks": [
+        "vendors~list"
+      ],
+      "chunkNames": [
+        "vendors~list"
+      ],
+      "emitted": false
+    }
+  ],
+  "filteredAssets": 0,
+  "entrypoints": {
+    "shaunguimond": {
+      "chunks": [
+        "shaunguimond"
+      ],
+      "assets": [
+        "shaunguimond.module.js"
+      ],
+      "children": {},
+      "childAssets": {}
+    }
+  },
+  "namedChunkGroups": {
+    "shaunguimond": {
+      "chunks": [
+        "shaunguimond"
+      ],
+      "assets": [
+        "shaunguimond.module.js"
+      ],
+      "children": {},
+      "childAssets": {}
+    },
+    "list": {
+      "chunks": [
+        "vendors~list"
+      ],
+      "assets": [
+        "vendors~list.module.js"
+      ],
+      "children": {},
+      "childAssets": {}
+    }
+  },
+  "children": []
+}
