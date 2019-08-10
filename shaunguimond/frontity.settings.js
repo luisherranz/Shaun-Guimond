@@ -22,6 +22,10 @@ const settings = {
               "/category/marketing"
             ],
             [
+              "Travels",
+              "/travels"
+            ],
+            [
               "Projects",
               "/projects"
             ],
