@@ -1,6 +1,5 @@
 {
     "version": 2,
-    "alias": ["shaunguimond.shaunguimond.now.sh"],
     "builds": [
       {
         "src": "build/static/**/*",
