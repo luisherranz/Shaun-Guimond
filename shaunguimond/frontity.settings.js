@@ -4,7 +4,7 @@ const settings = {
     "frontity": {
       "url": "https:/www.shaunguimond.com",
       "title": "Shaun Guimond",
-      "description": "Shaun Guimond testing Frontity!"
+      "description": "A blog for business, travel and technology."
     }
   },
   "packages": [
