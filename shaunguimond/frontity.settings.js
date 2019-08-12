@@ -26,8 +26,8 @@ const settings = {
               "/category/travels/"
             ],
             [
-              "Coding",
-              "/category/coding/"
+              "Technology",
+              "/category/technology/"
             ],
             [
               "Projects",
