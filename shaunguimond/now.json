@@ -27,6 +27,11 @@
         "src": "/(.*)",
         "headers": { "cache-control": "s-maxage=1,stale-while-revalidate" },
         "dest": "/build/server.js"
+      },
+      {
+        "src": "/(.*)",
+        "status": 301,
+        "headers": { "Location": "https://shaunguimond.com/$1" }
       }
     ]
   }

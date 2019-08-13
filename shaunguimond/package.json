@@ -13,12 +13,13 @@
   },
   "prettier": {},
   "dependencies": {
-    "@frontity/core": "^1.1.3",
-    "@frontity/html2react": "^1.1.8",
+    "@frontity/components": "^1.1.9",
+    "@frontity/core": "^1.2.0",
+    "@frontity/html2react": "^1.1.9",
     "@frontity/mars-theme": "./packages/mars-theme",
-    "@frontity/tiny-router": "^1.0.12",
+    "@frontity/tiny-router": "^1.0.13",
     "@frontity/twentynineteen-theme": "^1.0.3",
-    "@frontity/wp-source": "^1.1.8",
-    "frontity": "^1.2.2"
+    "@frontity/wp-source": "^1.2.0",
+    "frontity": "^1.3.0"
   }
 }
