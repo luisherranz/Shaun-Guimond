@@ -1,0 +1,148 @@
+{
+  "errors": [],
+  "warnings": [],
+  "version": "4.39.2",
+  "hash": "5efc4e9eef141dc2d440",
+  "publicPath": "/static/",
+  "outputPath": "C:\\Users\\shaun\\documents\\github\\shaunguimond\\shaunguimond\\build\\static",
+  "assetsByChunkName": {
+    "list": "list.module.js",
+    "shaunguimond": [
+      "shaunguimond.module.js",
+      "shaunguimond.970b5d3f1ce8598af287.hot-update.js"
+    ],
+    "unsweetenedcaroline": "unsweetenedcaroline.module.js",
+    "vendors~list": "vendors~list.module.js"
+  },
+  "assets": [
+    {
+      "name": "970b5d3f1ce8598af287.hot-update.json",
+      "size": 54,
+      "chunks": [],
+      "chunkNames": [],
+      "emitted": false
+    },
+    {
+      "name": "list.module.js",
+      "size": 25930,
+      "chunks": [
+        "list"
+      ],
+      "chunkNames": [
+        "list"
+      ],
+      "emitted": false
+    },
+    {
+      "name": "shaunguimond.970b5d3f1ce8598af287.hot-update.js",
+      "size": 544882,
+      "chunks": [
+        "shaunguimond"
+      ],
+      "chunkNames": [
+        "shaunguimond"
+      ],
+      "emitted": false
+    },
+    {
+      "name": "shaunguimond.module.js",
+      "size": 4146565,
+      "chunks": [
+        "shaunguimond"
+      ],
+      "chunkNames": [
+        "shaunguimond"
+      ],
+      "emitted": false
+    },
+    {
+      "name": "unsweetenedcaroline.module.js",
+      "size": 3541962,
+      "chunks": [
+        "unsweetenedcaroline"
+      ],
+      "chunkNames": [
+        "unsweetenedcaroline"
+      ],
+      "emitted": false
+    },
+    {
+      "name": "vendors~list.module.js",
+      "size": 80483,
+      "chunks": [
+        "vendors~list"
+      ],
+      "chunkNames": [
+        "vendors~list"
+      ],
+      "emitted": false
+    }
+  ],
+  "filteredAssets": 0,
+  "entrypoints": {
+    "shaunguimond": {
+      "chunks": [
+        "shaunguimond"
+      ],
+      "assets": [
+        "shaunguimond.module.js",
+        "shaunguimond.970b5d3f1ce8598af287.hot-update.js"
+      ],
+      "children": {},
+      "childAssets": {}
+    },
+    "unsweetenedcaroline": {
+      "chunks": [
+        "unsweetenedcaroline"
+      ],
+      "assets": [
+        "unsweetenedcaroline.module.js"
+      ],
+      "children": {},
+      "childAssets": {}
+    }
+  },
+  "namedChunkGroups": {
+    "shaunguimond": {
+      "chunks": [
+        "shaunguimond"
+      ],
+      "assets": [
+        "shaunguimond.module.js",
+        "shaunguimond.970b5d3f1ce8598af287.hot-update.js"
+      ],
+      "children": {},
+      "childAssets": {}
+    },
+    "unsweetenedcaroline": {
+      "chunks": [
+        "unsweetenedcaroline"
+      ],
+      "assets": [
+        "unsweetenedcaroline.module.js"
+      ],
+      "children": {},
+      "childAssets": {}
+    },
+    "list": {
+      "chunks": [
+        "vendors~list",
+        "list"
+      ],
+      "assets": [
+        "vendors~list.module.js",
+        "list.module.js"
+      ],
+      "children": {},
+      "childAssets": {}
+    }
+  },
+  "logging": {
+    "webpack.buildChunkGraph.visitModules": {
+      "entries": [],
+      "filteredEntries": 5,
+      "debug": false
+    }
+  },
+  "children": []
+}
