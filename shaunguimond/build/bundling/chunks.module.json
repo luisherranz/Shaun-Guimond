@@ -2,21 +2,21 @@
   "errors": [],
   "warnings": [],
   "version": "4.39.2",
-  "hash": "5efc4e9eef141dc2d440",
+  "hash": "536846ed899b97107769",
   "publicPath": "/static/",
   "outputPath": "C:\\Users\\shaun\\documents\\github\\shaunguimond\\shaunguimond\\build\\static",
   "assetsByChunkName": {
     "list": "list.module.js",
-    "shaunguimond": [
-      "shaunguimond.module.js",
-      "shaunguimond.970b5d3f1ce8598af287.hot-update.js"
-    ],
+    "shaunguimond": "shaunguimond.module.js",
     "unsweetenedcaroline": "unsweetenedcaroline.module.js",
-    "vendors~list": "vendors~list.module.js"
+    "vendors~list": [
+      "vendors~list.module.js",
+      "vendors~list.657b6d7db6a91c92d785.hot-update.js"
+    ]
   },
   "assets": [
     {
-      "name": "970b5d3f1ce8598af287.hot-update.json",
+      "name": "657b6d7db6a91c92d785.hot-update.json",
       "size": 54,
       "chunks": [],
       "chunkNames": [],
@@ -34,19 +34,8 @@
       "emitted": false
     },
     {
-      "name": "shaunguimond.970b5d3f1ce8598af287.hot-update.js",
-      "size": 544882,
-      "chunks": [
-        "shaunguimond"
-      ],
-      "chunkNames": [
-        "shaunguimond"
-      ],
-      "emitted": false
-    },
-    {
       "name": "shaunguimond.module.js",
-      "size": 4146565,
+      "size": 4140691,
       "chunks": [
         "shaunguimond"
       ],
@@ -67,8 +56,19 @@
       "emitted": false
     },
     {
+      "name": "vendors~list.657b6d7db6a91c92d785.hot-update.js",
+      "size": 8358,
+      "chunks": [
+        "vendors~list"
+      ],
+      "chunkNames": [
+        "vendors~list"
+      ],
+      "emitted": false
+    },
+    {
       "name": "vendors~list.module.js",
-      "size": 80483,
+      "size": 80883,
       "chunks": [
         "vendors~list"
       ],
@@ -85,8 +85,7 @@
         "shaunguimond"
       ],
       "assets": [
-        "shaunguimond.module.js",
-        "shaunguimond.970b5d3f1ce8598af287.hot-update.js"
+        "shaunguimond.module.js"
       ],
       "children": {},
       "childAssets": {}
@@ -108,8 +107,7 @@
         "shaunguimond"
       ],
       "assets": [
-        "shaunguimond.module.js",
-        "shaunguimond.970b5d3f1ce8598af287.hot-update.js"
+        "shaunguimond.module.js"
       ],
       "children": {},
       "childAssets": {}
@@ -131,6 +129,7 @@
       ],
       "assets": [
         "vendors~list.module.js",
+        "vendors~list.657b6d7db6a91c92d785.hot-update.js",
         "list.module.js"
       ],
       "children": {},
