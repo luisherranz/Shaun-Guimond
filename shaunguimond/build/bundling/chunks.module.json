@@ -2,7 +2,7 @@
   "errors": [],
   "warnings": [],
   "version": "4.39.3",
-  "hash": "fce293a7d11b227b4086",
+  "hash": "9fe7c581bcf823d54970",
   "publicPath": "/static/",
   "outputPath": "C:\\Users\\shaun\\documents\\github\\shaunguimond\\shaunguimond\\build\\static",
   "assetsByChunkName": {
@@ -25,7 +25,7 @@
     },
     {
       "name": "shaunguimond.module.js",
-      "size": 5483021,
+      "size": 5393989,
       "chunks": [
         "shaunguimond"
       ],
