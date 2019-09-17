@@ -1,0 +1,125 @@
+{
+  "errors": [],
+  "warnings": [],
+  "version": "4.39.3",
+  "hash": "fce293a7d11b227b4086",
+  "publicPath": "/static/",
+  "outputPath": "C:\\Users\\shaun\\documents\\github\\shaunguimond\\shaunguimond\\build\\static",
+  "assetsByChunkName": {
+    "list": "list.module.js",
+    "shaunguimond": "shaunguimond.module.js",
+    "unsweetenedcaroline": "unsweetenedcaroline.module.js",
+    "vendors~list": "vendors~list.module.js"
+  },
+  "assets": [
+    {
+      "name": "list.module.js",
+      "size": 25930,
+      "chunks": [
+        "list"
+      ],
+      "chunkNames": [
+        "list"
+      ],
+      "emitted": false
+    },
+    {
+      "name": "shaunguimond.module.js",
+      "size": 5483021,
+      "chunks": [
+        "shaunguimond"
+      ],
+      "chunkNames": [
+        "shaunguimond"
+      ],
+      "emitted": true
+    },
+    {
+      "name": "unsweetenedcaroline.module.js",
+      "size": 3509942,
+      "chunks": [
+        "unsweetenedcaroline"
+      ],
+      "chunkNames": [
+        "unsweetenedcaroline"
+      ],
+      "emitted": true
+    },
+    {
+      "name": "vendors~list.module.js",
+      "size": 80887,
+      "chunks": [
+        "vendors~list"
+      ],
+      "chunkNames": [
+        "vendors~list"
+      ],
+      "emitted": false
+    }
+  ],
+  "filteredAssets": 0,
+  "entrypoints": {
+    "shaunguimond": {
+      "chunks": [
+        "shaunguimond"
+      ],
+      "assets": [
+        "shaunguimond.module.js"
+      ],
+      "children": {},
+      "childAssets": {}
+    },
+    "unsweetenedcaroline": {
+      "chunks": [
+        "unsweetenedcaroline"
+      ],
+      "assets": [
+        "unsweetenedcaroline.module.js"
+      ],
+      "children": {},
+      "childAssets": {}
+    }
+  },
+  "namedChunkGroups": {
+    "shaunguimond": {
+      "chunks": [
+        "shaunguimond"
+      ],
+      "assets": [
+        "shaunguimond.module.js"
+      ],
+      "children": {},
+      "childAssets": {}
+    },
+    "unsweetenedcaroline": {
+      "chunks": [
+        "unsweetenedcaroline"
+      ],
+      "assets": [
+        "unsweetenedcaroline.module.js"
+      ],
+      "children": {},
+      "childAssets": {}
+    },
+    "list": {
+      "chunks": [
+        "vendors~list",
+        "list"
+      ],
+      "assets": [
+        "vendors~list.module.js",
+        "list.module.js"
+      ],
+      "children": {},
+      "childAssets": {}
+    }
+  },
+  "logging": {
+    "webpack.buildChunkGraph.visitModules": {
+      "entries": [],
+      "filteredEntries": 5,
+      "debug": false
+    }
+  },
+  "children": []
+}
